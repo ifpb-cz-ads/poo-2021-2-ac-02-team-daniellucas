@@ -51,3 +51,7 @@ e) Adicione ao valor de cada item o valor da taxa calculado. Use a menor linha d
 f) Crie uma variável booleana chamada muitoCaro. Escreva uma assertiva lógica para setar essa variável para true se novoCusto for maior que 10 e para false, caso contrário. Imprima o valor obtido em muitoCaro. (Não utilize if para escrever a assertiva.)
 
 **Resposta no arquivo BMExercicio03.java**
+
+# 4) Declare uma variável chamada long1 do tipo long e a inicialize com 100. Agora declare duas variáveis do tipo int, int1 e int2, e inicialize int1 com 200. Agora faça int2 receber int1 mais long1 e explique os resultados. Arrume o código para que não ocorra o erro anterior.
+
+**Resposta no arquivo BMExercicio04.java**
