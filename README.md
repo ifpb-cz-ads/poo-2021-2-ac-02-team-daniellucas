@@ -12,9 +12,9 @@
 
 ( **F** ) boolean epar = (4%2=0)
 
-( **F** ) char nome = “Maria”;
+( **F** ) char nome = "Maria";
 
-( **V** ) String b = “1”
+( **F** ) String b = "1"
 
 ( **F** ) float x = 2.7;
 
