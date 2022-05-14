@@ -55,3 +55,8 @@ f) Crie uma variável booleana chamada muitoCaro. Escreva uma assertiva lógica 
 # 4) Declare uma variável chamada long1 do tipo long e a inicialize com 100. Agora declare duas variáveis do tipo int, int1 e int2, e inicialize int1 com 200. Agora faça int2 receber int1 mais long1 e explique os resultados. Arrume o código para que não ocorra o erro anterior.
 
 **Resposta no arquivo BMExercicio04.java**
+
+
+
+
+O aluno Lucas Marques não tem  o computador e devido a isso  Daniel é o único que está commitando os arquivos. 
